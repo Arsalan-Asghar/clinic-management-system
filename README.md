@@ -1,4 +1,6 @@
-# 🏥 MediCare — Clinic Management System
+# 🏥 MediCare - Clinic Management System
+
+🌐 **Live Demo:** https://Arsalan-Asghar.github.io/clinic-management-system/
 
 A complete Clinic Management System built with:
 - **Frontend**: HTML5 + CSS3 + Vanilla JavaScript
